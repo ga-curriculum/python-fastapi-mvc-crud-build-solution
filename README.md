@@ -8,22 +8,34 @@ This repo contains the solution code for the [Python FastAPI MVC CRUD Build](htt
 
 1. Fork and clone this repo.
 
-2. Navigate to the project directory and activate the virtual environment:
+2. Navigate into the project directory:
 
 ```sh
-pipenv shell
-
+ cd python-fastapi-mvc-crud-build-solution
 ```
 
-3. Install the dependencies and start the development server:
+3. Install dependencies (this also creates the virtual environment if it doesn’t exist):
 
-```bash
-pipenv install
-pipenv run uvicorn main:app --reload
+```sh
+ pipenv install
 ```
 
-Open the application in VSCode:
+4. Activate the virtual environment:
 
-```bash
-code .
+```sh
+ pipenv shell
+```
+
+5. Start the development server:
+
+```sh
+ uvicorn main:app --reload
+```
+
+> You should now have the app running. Visit [`http://127.0.0.1:8000`](http://127.0.0.1:8000) in your browser to confirm it’s working.
+
+6. Open the project in VS Code:
+
+```sh
+ code .
 ```
