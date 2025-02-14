@@ -32,7 +32,7 @@ This repo contains the solution code for the [Python FastAPI MVC CRUD Build](htt
  uvicorn main:app --reload
 ```
 
-> You should now have the app running. Visit [`http://127.0.0.1:8000`](http://127.0.0.1:8000) in your browser to confirm it’s working.
+> You should now have the app running. Visit [`http://127.0.0.1:8000/docs`](http://127.0.0.1:8000/docs) in your browser to confirm it’s working.
 
 6. Open the project in VS Code:
 
