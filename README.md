@@ -2,7 +2,7 @@
 
 ## About
 
-This repo contains the solution code for the [Python FastAPI MVC CRUD Build](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-fastapi-mvc-crud-build/canvas-landing-pages/fallback.html) Lesson.
+This repo contains the solution code for the [Python FastAPI MVC CRUD Build](https://ga-curriculum.github.io/python-fastapi-mvc-crud-build/canvas-landing-pages/fallback.html) Lesson.
 
 ## Getting Started
 
